@@ -30,3 +30,5 @@ out
 ## File-based project format:
 *.ipr
 *.iws
+
+*.csv
