@@ -64,4 +64,5 @@ target/
 **/*.csv
 **/*.csv
 .idea/
-.csv
+**.cs
+*.csv
